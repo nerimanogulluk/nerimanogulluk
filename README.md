@@ -1,5 +1,6 @@
 ### Hi Everyone 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=nerimanogulluk&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerimanogulluk&layout=compact&theme=vue&langs_count=10&count_private=true"/>
 <!--
 **nerimanogulluk/nerimanogulluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
