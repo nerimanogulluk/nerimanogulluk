@@ -1,6 +1,5 @@
-### Hi Everyone 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
- | <img src="https://github-readme-stats.vercel.app/api?username=nerimanogulluk&show_icons=true&theme=vue&count_private=true&include_all_commits=true"/>	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerimanogulluk&layout=compact&theme=vue&langs_count=10&count_private=true"/>	|
+### Hi Everyone 👋 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerimanogulluk" alt="nerimanogulluk" /> </p>
+| <img src="https://github-readme-stats.vercel.app/api?username=nerimanogulluk&show_icons=true&theme=vue&count_private=true&include_all_commits=true"/>	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerimanogulluk&layout=compact&theme=vue&langs_count=10&count_private=true"/>	|
 |---	                                                                                                                  |---	 
 
 
